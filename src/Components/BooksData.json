@@ -1,0 +1,62 @@
+[{
+  "imageAddress":
+    "https://images-eu.ssl-images-amazon.com/images/I/51Kmfmb1LCL._AC_SX184_.jpg",
+  "title": "The Hidden Hindu",
+  "auther": "Akshat Gupta",
+  "price": "30"
+},
+{
+    "imageAddress":
+      "https://images-eu.ssl-images-amazon.com/images/I/31PgDdt8uiL._AC_SX184_.jpg",
+    "title": "Yellow Face",
+    "auther": "Rebecca F Kuang",
+    "price": "28"
+  }
+  ,
+  {
+      "imageAddress":
+        "https://m.media-amazon.com/images/I/719uAS32P7L._AC_UL320_.jpg",
+      "title": "The Power of One Thought",
+      "auther": "BK Shivani",
+      "price": "23"
+    }
+  ,
+{
+    "imageAddress":
+      "https://m.media-amazon.com/images/I/91dCmktk8ZL._AC_UL320_.jpg",
+    "title": "Balidan",
+    "auther": "Swapnil Pandey",
+    "price": "45"
+  }
+  ,
+  {
+      "imageAddress":
+        "https://m.media-amazon.com/images/I/71gpe7LeGSL._AC_UL320_.jpg",
+      "title": "Outlive: The Science and Art of Longevity",
+      "auther": "Peter Attia and Bill Gifford",
+      "price": "17"
+    }
+  ,
+{
+    "imageAddress":
+      "https://m.media-amazon.com/images/I/61IyS7fw7yL._AC_UL320_.jpg",
+    "title": "Office Secrets: 50 Human Truths",
+    "auther": "Harish Bhat",
+    "price": "40"
+  }
+  ,
+  {
+      "imageAddress":
+        "https://m.media-amazon.com/images/I/91NRrndSQnL._AC_UL320_.jpg",
+      "title": "Lanka ka Yuddh (War Of Lanka)",
+      "auther": "Amish Tripathi",
+      "price": "20"
+    }
+  ,
+{
+    "imageAddress":
+      "https://m.media-amazon.com/images/I/81DuRbkt0tL._AC_UL320_.jpg",
+    "title": "All-time Favourite Nature Stories",
+    "auther": "Ruskin Bond ",
+    "price": "19"
+  }]
